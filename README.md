@@ -1,0 +1,2 @@
+The project is work on the code examples include in the "Mathematical Foundations of Machine Learning" course in Udemy.
+https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/
